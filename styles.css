@@ -1,0 +1,28 @@
+body{
+    font-family: Arial,sans-serif;
+    background-color: #CCCCFF;
+}
+
+
+.movie-option{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.movie-option img{
+    width: 150px;
+    height: auto;
+    margin-right: 15px;
+    border-radius: 5%;
+}
+
+.movie-option p{
+    max-width: 500px;
+}
+
+.movie-option h2{
+    max-width: 500px;
+}
+
+
